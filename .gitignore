@@ -139,6 +139,9 @@ resources/structure
 #Visual Studio
 .vs
 
+#IntelliJ
+.idea
+
 # Mac
 .DS_Store
 
